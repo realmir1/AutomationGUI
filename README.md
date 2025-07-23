@@ -106,11 +106,5 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 -----
 
-## 📧 İletişim
-
-Proje Sahibi: [Adınız Soyadınız / GitHub Kullanıcı Adınız]
-E-posta: [E-posta Adresiniz]
-
-Proje Linki: [https://github.com/KULLANICI\_ADINIZ/HastaneYonetimSistemi](https://www.google.com/search?q=https://github.com/KULLANICI_ADINIZ/HastaneYonetimSistemi)
 
 -----
